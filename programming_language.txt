@@ -1,3 +1,6 @@
 Programming Language
 - HTML
 - CSS
+- JavaScript
+- C++
+- PHP
